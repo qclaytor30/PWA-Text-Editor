@@ -9,7 +9,7 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "", 
+    "start": "",
     "server": "",
     "build": "",
     "install": "",
