@@ -1,6 +1,7 @@
-node_modules/
-dist/
-/node_modules
 npm-debug.log
 .DS_Store
 /*.env
+package-lock.json
+.prettierignore
+/client/node_modules
+/server/node_modules
